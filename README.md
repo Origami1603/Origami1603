@@ -1,6 +1,5 @@
 <h1>Bem-Vindo ao perfil do Origami1603... <img src="https://media1.tenor.com/m/WO-T7OoiCPAAAAAC/kanna-done.gif" width="60" height="60" /></h1>
-
-
+<h2>Meus dados:</h2>
 <div>
 <a href="https://github.com/Origami1603">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Origami1603&layout=compact&langs_count=7&theme=dracula"/>
@@ -20,3 +19,5 @@
 <a href = "mailto:gabrielcosta1603js@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/gabriel-costa-87a698298" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
+<h3>Resumo Sobre mim:</h3>
+<p></p>
