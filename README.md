@@ -20,4 +20,4 @@
 <a href="https://www.linkedin.com/in/gabriel-costa-87a698298" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 <h3>Resumo Sobre mim:</h3>
-<p></p>
+<p>Olá! Sou Origami, um entusiasta de tecnologia e programação. Estou constantemente aprimorando meu conhecimento em HTML, CSS e JavaScript. Durante meu estágio na prefeitura, adquiri experiência em operação de impressoras, gestão de estoque e organização de documentos. Sou comprometido com a resolução de problemas e estou sempre em busca de novos conhecimentos. Tenho interesse em contribuir para projetos open source e expandir meu portfólio de desenvolvimento. Além disso, adoro maratonar animes, filmes e séries, jogar, fazer caminhadas e frequentar a academia. Estou sempre aberto a novas oportunidades de aprendizado e colaboração em projetos desafiadores na área de desenvolvimento de software."</p>
