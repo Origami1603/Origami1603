@@ -1,5 +1,5 @@
-<h1>Bem-Vindo ao perfil do Origami1603... <img src="https://tenor.com/view/shigure-ui-dance-ui-mama-ui-shigure-vtuber-gif-5251904257118298829" width="60" height="60" /></h1>
-
+<h1>Bem-Vindo ao perfil do Origami1603... <img src=""></h1>
+<img src="https://tenor.com/view/anime-gif-16960650550633799343">
 <h2>Meus dados:</h2>
 <div>
 <a href="https://github.com/Origami1603">
