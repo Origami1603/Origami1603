@@ -17,8 +17,8 @@
 </div>
 <p>Contato:</p>
 <div>
-<a href="https://instagram.com/gabrielcosta03s" target ="_blank" rel="external"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href="https://www.reddit.com/user/Rabudo1603/" target ="_blank" rel="external"><img loading="lazy" src="" target="_blank"></a>
 <a href = "mailto:gabrielcosta1603js@gmail.com" target="_blank" rel="external"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://linkedin.com/in/gabrielcosta-ti" target="_blank" rel="external"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-<a href="https://www.youtube.com/@GabrielCosta-if9sf" target="_blank" rel="external"><img loading="lazy" src="https://img.shields.io/badge/-YouTube-D14836?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+
 </div>
