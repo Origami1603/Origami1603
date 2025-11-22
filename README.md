@@ -7,13 +7,7 @@
 </div>
 <p>Estou aprendendo:</p>
 <div>
-<img src="https://www.svgrepo.com/show/452185/css-3.svg"  width="40" height="40" />
-<img src="https://www.svgrepo.com/show/452228/html-5.svg" width="40" height="40"/> 
-<img src="https://www.svgrepo.com/show/477058/internet.svg" width="40" height="40"/>
-<img src="https://www.svgrepo.com/show/248268/tools-and-utensils-hardware.svg" width="40" height="40"/>
-<img src="https://www.svgrepo.com/show/373589/excel.svg" width="40" height="40"/>
-<img src="https://www.svgrepo.com/show/374187/word.svg" width="40" height="40"/>
-<img src="https://www.svgrepo.com/show/247587/team-group.svg" width="40" height="40"/>
+<p>Não Sei ao Certo</p>
 </div>
 <p>Contato:</p>
 <div>
